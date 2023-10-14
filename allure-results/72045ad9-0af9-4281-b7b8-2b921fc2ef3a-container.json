@@ -1,0 +1,1 @@
+{"uuid":"72045ad9-0af9-4281-b7b8-2b921fc2ef3a","name":"Scenario Outline: User on login page and login with the fields empty \"<username>\" and \"<password>\"","children":["aea784e4-e1ca-414e-b004-697af201fa7a"],"befores":[],"afters":[],"start":1697254174975,"stop":1697254175359}
